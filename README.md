@@ -2,7 +2,7 @@
 
 A RESTful backend for a movie ticket booking platform, built with **Spring Boot**, **Spring Data JPA** and **MySQL**. Users can browse movies by city, pick a theatre and show, select seats and book tickets.
 
-> 📐 Architecture, data model and design decisions: see [SYSTEM_DESIGN.md](./SYSTEM_DESIGN.md)
+> 📐 Architecture, data model and design decisions: see [SYSTEM_DESIGN.md](./System_Design.md)
 
 ---
 
